@@ -20,9 +20,9 @@ ar_track_alvar:
   contains_dependency: 0
 arbotix_ros:
   name: arbotix_ros
-  issues: 473
-  contains_bug: 9
-  contains_dependency: 11
+  issues: 516
+  contains_bug: 10
+  contains_dependency: 12
 audio_common:
   name: audio_common
   issues: 260
@@ -30,14 +30,14 @@ audio_common:
   contains_dependency: 12
 utils-common:
   name: utils-common
-  issues: 462
+  issues: 504
   contains_bug: 1
-  contains_dependency: 22
+  contains_dependency: 24
 utils-ros1:
   name: utils-ros1
-  issues: 297
+  issues: 324
   contains_bug: 0
-  contains_dependency: 11
+  contains_dependency: 12
 bond_core:
   name: bond_core
   issues: 108
@@ -65,19 +65,19 @@ class_loader:
   contains_dependency: 2
 cloudwatch-common:
   name: cloudwatch-common
-  issues: 400
-  contains_bug: 10
+  issues: 440
+  contains_bug: 11
   contains_dependency: 0
 cloudwatchlogs-ros1:
   name: cloudwatchlogs-ros1
-  issues: 510
+  issues: 561
   contains_bug: 11
-  contains_dependency: 20
+  contains_dependency: 22
 cloudwatchmetrics-ros1:
   name: cloudwatchmetrics-ros1
-  issues: 360
+  issues: 396
   contains_bug: 4
-  contains_dependency: 10
+  contains_dependency: 11
 cob_common:
   name: cob_common
   issues: 130
@@ -110,12 +110,12 @@ dynamixel-workbench:
   contains_dependency: 2
 DynamixelSDK:
   name: DynamixelSDK
-  issues: 1170
-  contains_bug: 59
+  issues: 1300
+  contains_bug: 66
   contains_dependency: 0
 ros_driver:
   name: ros_driver
-  issues: 234
+  issues: 260
   contains_bug: 2
   contains_dependency: 0
 exotica:
@@ -135,14 +135,14 @@ fiducials:
   contains_dependency: 3
 find-object:
   name: find-object
-  issues: 846
-  contains_bug: 58
-  contains_dependency: 44
+  issues: 940
+  contains_bug: 68
+  contains_dependency: 52
 flexbe_behavior_engine:
   name: flexbe_behavior_engine
-  issues: 616
-  contains_bug: 36
-  contains_dependency: 51
+  issues: 693
+  contains_bug: 41
+  contains_dependency: 58
 gazebo_ros_pkgs:
   name: gazebo_ros_pkgs
   issues: 130
@@ -175,29 +175,29 @@ grid_map:
   contains_dependency: 3
 catkin_grpc:
   name: catkin_grpc
-  issues: 272
-  contains_bug: 9
+  issues: 306
+  contains_bug: 10
   contains_dependency: 0
 kinesisvideo-encoder-common:
   name: kinesisvideo-encoder-common
-  issues: 248
+  issues: 279
   contains_bug: 0
   contains_dependency: 0
 kinesisvideo-encoder-ros1:
   name: kinesisvideo-encoder-ros1
-  issues: 256
+  issues: 288
   contains_bug: 0
   contains_dependency: 0
 health-metrics-collector-ros1:
   name: health-metrics-collector-ros1
-  issues: 176
+  issues: 198
   contains_bug: 0
   contains_dependency: 0
 hls_lfcd_lds_driver:
   name: hls_lfcd_lds_driver
-  issues: 344
-  contains_bug: 9
-  contains_dependency: 8
+  issues: 387
+  contains_bug: 10
+  contains_dependency: 9
 industrial_core:
   name: industrial_core
   issues: 130
@@ -225,14 +225,14 @@ jsk_roseus:
   contains_dependency: 2
 kinesisvideo-common:
   name: kinesisvideo-common
-  issues: 272
+  issues: 306
   contains_bug: 0
-  contains_dependency: 8
+  contains_dependency: 9
 kinesisvideo-ros1:
   name: kinesisvideo-ros1
-  issues: 312
-  contains_bug: 13
-  contains_dependency: 8
+  issues: 351
+  contains_bug: 15
+  contains_dependency: 9
 kobuki:
   name: kobuki
   issues: 100
@@ -240,7 +240,7 @@ kobuki:
   contains_dependency: 8
 lex-ros1:
   name: lex-ros1
-  issues: 216
+  issues: 243
   contains_bug: 0
   contains_dependency: 0
 libuvc:
@@ -295,9 +295,9 @@ moveit:
   contains_dependency: 8
 mrpt:
   name: mrpt
-  issues: 1820
-  contains_bug: 75
-  contains_dependency: 75
+  issues: 2080
+  contains_bug: 103
+  contains_dependency: 89
 mrpt_navigation:
   name: mrpt_navigation
   issues: 130
@@ -325,8 +325,8 @@ octomap:
   contains_dependency: 3
 omron:
   name: omron
-  issues: 125
-  contains_bug: 4
+  issues: 150
+  contains_bug: 5
   contains_dependency: 0
 open_manipulator:
   name: open_manipulator
@@ -335,8 +335,8 @@ open_manipulator:
   contains_dependency: 3
 orb_slam_2_ros:
   name: orb_slam_2_ros
-  issues: 185
-  contains_bug: 13
+  issues: 222
+  contains_bug: 17
   contains_dependency: 0
 orocos_kinematics_dynamics:
   name: orocos_kinematics_dynamics
@@ -365,9 +365,9 @@ pinocchio:
   contains_dependency: 2
 PlotJuggler:
   name: PlotJuggler
-  issues: 520
-  contains_bug: 39
-  contains_dependency: 10
+  issues: 650
+  contains_bug: 58
+  contains_dependency: 14
 pluginlib:
   name: pluginlib
   issues: 130
@@ -458,3 +458,58 @@ rosserial:
   issues: 130
   contains_bug: 4
   contains_dependency: 0
+rotors_simulator:
+  name: rotors_simulator
+  issues: 130
+  contains_bug: 5
+  contains_dependency: 4
+rqt:
+  name: rqt
+  issues: 130
+  contains_bug: 18
+  contains_dependency: 5
+rqt_common_plugins:
+  name: rqt_common_plugins
+  issues: 130
+  contains_bug: 10
+  contains_dependency: 16
+rqt_robot_plugins:
+  name: rqt_robot_plugins
+  issues: 130
+  contains_bug: 12
+  contains_dependency: 10
+rtabmap:
+  name: rtabmap
+  issues: 130
+  contains_bug: 10
+  contains_dependency: 1
+rtabmap_ros:
+  name: rtabmap_ros
+  issues: 130
+  contains_bug: 10
+  contains_dependency: 2
+rviz:
+  name: rviz
+  issues: 130
+  contains_bug: 10
+  contains_dependency: 1
+rviz_visual_tools:
+  name: rviz_visual_tools
+  issues: 130
+  contains_bug: 2
+  contains_dependency: 6
+schunk_modular_robotics:
+  name: schunk_modular_robotics
+  issues: 130
+  contains_bug: 4
+  contains_dependency: 6
+serial:
+  name: serial
+  issues: 130
+  contains_bug: 5
+  contains_dependency: 6
+spatio_temporal_voxel_layer:
+  name: spatio_temporal_voxel_layer
+  issues: 130
+  contains_bug: 5
+  contains_dependency: 4
