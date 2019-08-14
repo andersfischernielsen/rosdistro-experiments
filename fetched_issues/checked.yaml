@@ -1,0 +1,1520 @@
+abseil-cpp:
+  name: abseil-cpp
+  issues: 65
+  contains_bug: 0
+  contains_dependency: 0
+ackermann_msgs:
+  name: ackermann_msgs
+  issues: 24
+  contains_bug: 0
+  contains_dependency: 0
+actionlib:
+  name: actionlib
+  issues: 390
+  contains_bug: 23
+  contains_dependency: 18
+adi_driver:
+  name: adi_driver
+  issues: 87
+  contains_bug: 3
+  contains_dependency: 0
+agni_tf_tools:
+  name: agni_tf_tools
+  issues: 3
+  contains_bug: 0
+  contains_dependency: 0
+angles:
+  name: angles
+  issues: 30
+  contains_bug: 3
+  contains_dependency: 2
+app_manager:
+  name: app_manager
+  issues: 24
+  contains_bug: 0
+  contains_dependency: 0
+apriltag:
+  name: apriltag
+  issues: 102
+  contains_bug: 12
+  contains_dependency: 2
+apriltag_ros:
+  name: apriltag_ros
+  issues: 120
+  contains_bug: 9
+  contains_dependency: 2
+ar_track_alvar:
+  name: ar_track_alvar
+  issues: 152
+  contains_bug: 7
+  contains_dependency: 0
+arbotix_ros:
+  name: arbotix_ros
+  issues: 473
+  contains_bug: 9
+  contains_dependency: 11
+astuff_sensor_msgs:
+  name: astuff_sensor_msgs
+  issues: 70
+  contains_bug: 5
+  contains_dependency: 0
+async_comm:
+  name: async_comm
+  issues: 12
+  contains_bug: 0
+  contains_dependency: 0
+audio_common:
+  name: audio_common
+  issues: 260
+  contains_bug: 21
+  contains_dependency: 12
+automotive_autonomy_msgs:
+  name: automotive_autonomy_msgs
+  issues: 28
+  contains_bug: 0
+  contains_dependency: 2
+utils-common:
+  name: utils-common
+  issues: 462
+  contains_bug: 1
+  contains_dependency: 22
+utils-ros1:
+  name: utils-ros1
+  issues: 297
+  contains_bug: 0
+  contains_dependency: 11
+basler_tof:
+  name: basler_tof
+  issues: 16
+  contains_bug: 2
+  contains_dependency: 0
+bond_core:
+  name: bond_core
+  issues: 108
+  contains_bug: 2
+  contains_dependency: 5
+brics_actuator:
+  name: brics_actuator
+  issues: 4
+  contains_bug: 0
+  contains_dependency: 0
+calibration:
+  name: calibration
+  issues: 84
+  contains_bug: 7
+  contains_dependency: 7
+capabilities:
+  name: capabilities
+  issues: 176
+  contains_bug: 8
+  contains_dependency: 13
+cartesian_msgs:
+  name: cartesian_msgs
+  issues: 2
+  contains_bug: 0
+  contains_dependency: 0
+catch_ros:
+  name: catch_ros
+  issues: 11
+  contains_bug: 1
+  contains_dependency: 3
+catkin:
+  name: catkin
+  issues: 130
+  contains_bug: 18
+  contains_dependency: 5
+catkin_pip:
+  name: catkin_pip
+  issues: 130
+  contains_bug: 66
+  contains_dependency: 101
+catkin_virtualenv:
+  name: catkin_virtualenv
+  issues: 45
+  contains_bug: 1
+  contains_dependency: 9
+class_loader:
+  name: class_loader
+  issues: 130
+  contains_bug: 14
+  contains_dependency: 2
+cloudwatch-common:
+  name: cloudwatch-common
+  issues: 400
+  contains_bug: 10
+  contains_dependency: 0
+cloudwatchlogs-ros1:
+  name: cloudwatchlogs-ros1
+  issues: 510
+  contains_bug: 10
+  contains_dependency: 20
+cloudwatchmetrics-ros1:
+  name: cloudwatchmetrics-ros1
+  issues: 360
+  contains_bug: 4
+  contains_dependency: 10
+cmake_modules:
+  name: cmake_modules
+  issues: 50
+  contains_bug: 7
+  contains_dependency: 1
+cnn_bridge:
+  name: cnn_bridge
+  issues: 3
+  contains_bug: 1
+  contains_dependency: 0
+cob_common:
+  name: cob_common
+  issues: 130
+  contains_bug: 0
+  contains_dependency: 2
+cob_environments:
+  name: cob_environments
+  issues: 130
+  contains_bug: 0
+  contains_dependency: 4
+code_coverage:
+  name: code_coverage
+  issues: 12
+  contains_bug: 2
+  contains_dependency: 0
+collada_urdf:
+  name: collada_urdf
+  issues: 32
+  contains_bug: 3
+  contains_dependency: 4
+common_msgs:
+  name: common_msgs
+  issues: 130
+  contains_bug: 8
+  contains_dependency: 4
+control_msgs:
+  name: control_msgs
+  issues: 34
+  contains_bug: 0
+  contains_dependency: 0
+control_toolbox:
+  name: control_toolbox
+  issues: 82
+  contains_bug: 4
+  contains_dependency: 4
+costmap_converter:
+  name: costmap_converter
+  issues: 10
+  contains_bug: 0
+  contains_dependency: 1
+cv_camera:
+  name: cv_camera
+  issues: 23
+  contains_bug: 1
+  contains_dependency: 0
+depthcloud_encoder:
+  name: depthcloud_encoder
+  issues: 15
+  contains_bug: 0
+  contains_dependency: 1
+desistek_saga:
+  name: desistek_saga
+  issues: 20
+  contains_bug: 0
+  contains_dependency: 0
+diagnostics:
+  name: diagnostics
+  issues: 130
+  contains_bug: 3
+  contains_dependency: 3
+driver_common:
+  name: driver_common
+  issues: 10
+  contains_bug: 0
+  contains_dependency: 2
+dynamic_reconfigure:
+  name: dynamic_reconfigure
+  issues: 130
+  contains_bug: 4
+  contains_dependency: 2
+dynamixel-workbench:
+  name: dynamixel-workbench
+  issues: 100
+  contains_bug: 7
+  contains_dependency: 2
+dynamixel-workbench-msgs:
+  name: dynamixel-workbench-msgs
+  issues: 21
+  contains_bug: 0
+  contains_dependency: 0
+DynamixelSDK:
+  name: DynamixelSDK
+  issues: 1170
+  contains_bug: 59
+  contains_dependency: 0
+eca_a9:
+  name: eca_a9
+  issues: 28
+  contains_bug: 0
+  contains_dependency: 0
+ecl_core:
+  name: ecl_core
+  issues: 87
+  contains_bug: 11
+  contains_dependency: 2
+ecl_lite:
+  name: ecl_lite
+  issues: 28
+  contains_bug: 1
+  contains_dependency: 1
+ecl_manipulation:
+  name: ecl_manipulation
+  issues: 5
+  contains_bug: 1
+  contains_dependency: 0
+ecl_navigation:
+  name: ecl_navigation
+  issues: 4
+  contains_bug: 0
+  contains_dependency: 0
+eigen_stl_containers:
+  name: eigen_stl_containers
+  issues: 16
+  contains_bug: 0
+  contains_dependency: 2
+eigenpy:
+  name: eigenpy
+  issues: 82
+  contains_bug: 21
+  contains_dependency: 2
+ros_driver:
+  name: ros_driver
+  issues: 234
+  contains_bug: 2
+  contains_dependency: 0
+epos2_motor_controller:
+  name: epos2_motor_controller
+  issues: 2
+  contains_bug: 0
+  contains_dependency: 0
+ethercat_grant:
+  name: ethercat_grant
+  issues: 5
+  contains_bug: 0
+  contains_dependency: 1
+executive_smach:
+  name: executive_smach
+  issues: 64
+  contains_bug: 2
+  contains_dependency: 1
+exotica:
+  name: exotica
+  issues: 130
+  contains_bug: 15
+  contains_dependency: 5
+fetch_gazebo:
+  name: fetch_gazebo
+  issues: 95
+  contains_bug: 16
+  contains_dependency: 7
+fetch_msgs:
+  name: fetch_msgs
+  issues: 15
+  contains_bug: 0
+  contains_dependency: 0
+fetch_open_auto_dock:
+  name: fetch_open_auto_dock
+  issues: 2
+  contains_bug: 0
+  contains_dependency: 0
+fetch_robots:
+  name: fetch_robots
+  issues: 51
+  contains_bug: 6
+  contains_dependency: 1
+fetch_ros:
+  name: fetch_ros
+  issues: 130
+  contains_bug: 6
+  contains_dependency: 3
+fetch_tools:
+  name: fetch_tools
+  issues: 14
+  contains_bug: 7
+  contains_dependency: 0
+fiducials:
+  name: fiducials
+  issues: 130
+  contains_bug: 16
+  contains_dependency: 3
+filters:
+  name: filters
+  issues: 28
+  contains_bug: 1
+  contains_dependency: 1
+find-object:
+  name: find-object
+  issues: 846
+  contains_bug: 58
+  contains_dependency: 44
+flexbe_behavior_engine:
+  name: flexbe_behavior_engine
+  issues: 616
+  contains_bug: 36
+  contains_dependency: 51
+flexbe_app:
+  name: flexbe_app
+  issues: 38
+  contains_bug: 13
+  contains_dependency: 4
+flir_boson_usb:
+  name: flir_boson_usb
+  issues: 5
+  contains_bug: 0
+  contains_dependency: 0
+fmi_adapter:
+  name: fmi_adapter
+  issues: 1
+  contains_bug: 0
+  contains_dependency: 0
+four_wheel_steering_msgs:
+  name: four_wheel_steering_msgs
+  issues: 3
+  contains_bug: 0
+  contains_dependency: 0
+franka_ros:
+  name: franka_ros
+  issues: 76
+  contains_bug: 7
+  contains_dependency: 3
+gazebo_ros_pkgs:
+  name: gazebo_ros_pkgs
+  issues: 130
+  contains_bug: 16
+  contains_dependency: 5
+gencpp:
+  name: gencpp
+  issues: 41
+  contains_bug: 6
+  contains_dependency: 1
+generic_control_toolbox:
+  name: generic_control_toolbox
+  issues: 13
+  contains_bug: 0
+  contains_dependency: 0
+geneus:
+  name: geneus
+  issues: 64
+  contains_bug: 5
+  contains_dependency: 1
+genlisp:
+  name: genlisp
+  issues: 14
+  contains_bug: 4
+  contains_dependency: 0
+genmsg:
+  name: genmsg
+  issues: 86
+  contains_bug: 11
+  contains_dependency: 11
+gennodejs:
+  name: gennodejs
+  issues: 17
+  contains_bug: 3
+  contains_dependency: 1
+genpy:
+  name: genpy
+  issues: 130
+  contains_bug: 9
+  contains_dependency: 3
+geographic_info:
+  name: geographic_info
+  issues: 27
+  contains_bug: 2
+  contains_dependency: 3
+geometric_shapes:
+  name: geometric_shapes
+  issues: 130
+  contains_bug: 19
+  contains_dependency: 11
+geometry:
+  name: geometry
+  issues: 130
+  contains_bug: 16
+  contains_dependency: 6
+geometry2:
+  name: geometry2
+  issues: 130
+  contains_bug: 16
+  contains_dependency: 3
+geometry_tutorials:
+  name: geometry_tutorials
+  issues: 28
+  contains_bug: 4
+  contains_dependency: 0
+graph_msgs:
+  name: graph_msgs
+  issues: 2
+  contains_bug: 0
+  contains_dependency: 0
+grasping_msgs:
+  name: grasping_msgs
+  issues: 2
+  contains_bug: 0
+  contains_dependency: 0
+grid_map:
+  name: grid_map
+  issues: 130
+  contains_bug: 5
+  contains_dependency: 3
+catkin_grpc:
+  name: catkin_grpc
+  issues: 272
+  contains_bug: 9
+  contains_dependency: 0
+kinesisvideo-encoder-common:
+  name: kinesisvideo-encoder-common
+  issues: 248
+  contains_bug: 0
+  contains_dependency: 0
+kinesisvideo-encoder-ros1:
+  name: kinesisvideo-encoder-ros1
+  issues: 256
+  contains_bug: 0
+  contains_dependency: 0
+health-metrics-collector-ros1:
+  name: health-metrics-collector-ros1
+  issues: 176
+  contains_bug: 0
+  contains_dependency: 0
+hebi_cpp_api_ros:
+  name: hebi_cpp_api_ros
+  issues: 4
+  contains_bug: 0
+  contains_dependency: 1
+hls_lfcd_lds_driver:
+  name: hls_lfcd_lds_driver
+  issues: 344
+  contains_bug: 9
+  contains_dependency: 8
+hpp-fcl:
+  name: hpp-fcl
+  issues: 73
+  contains_bug: 10
+  contains_dependency: 2
+ibeo_core:
+  name: ibeo_core
+  issues: 14
+  contains_bug: 1
+  contains_dependency: 0
+ibeo_lux:
+  name: ibeo_lux
+  issues: 15
+  contains_bug: 1
+  contains_dependency: 0
+ifopt:
+  name: ifopt
+  issues: 42
+  contains_bug: 3
+  contains_dependency: 1
+iirob_filters:
+  name: iirob_filters
+  issues: 29
+  contains_bug: 0
+  contains_dependency: 0
+imu_tools:
+  name: imu_tools
+  issues: 93
+  contains_bug: 22
+  contains_dependency: 6
+industrial_core:
+  name: industrial_core
+  issues: 130
+  contains_bug: 15
+  contains_dependency: 4
+interactive_marker_proxy:
+  name: interactive_marker_proxy
+  issues: 2
+  contains_bug: 0
+  contains_dependency: 0
+interactive_markers:
+  name: interactive_markers
+  issues: 44
+  contains_bug: 10
+  contains_dependency: 1
+ipr_extern:
+  name: ipr_extern
+  issues: 4
+  contains_bug: 0
+  contains_dependency: 0
+joint_state_publisher:
+  name: joint_state_publisher
+  issues: 22
+  contains_bug: 3
+  contains_dependency: 2
+jointstick:
+  name: jointstick
+  issues: 1
+  contains_bug: 0
+  contains_dependency: 0
+joystick_drivers:
+  name: joystick_drivers
+  issues: 130
+  contains_bug: 5
+  contains_dependency: 4
+jsk_3rdparty:
+  name: jsk_3rdparty
+  issues: 130
+  contains_bug: 12
+  contains_dependency: 4
+jsk_recognition:
+  name: jsk_recognition
+  issues: 130
+  contains_bug: 6
+  contains_dependency: 6
+jsk_roseus:
+  name: jsk_roseus
+  issues: 130
+  contains_bug: 18
+  contains_dependency: 2
+json_transport:
+  name: json_transport
+  issues: 12
+  contains_bug: 0
+  contains_dependency: 1
+kdl_parser:
+  name: kdl_parser
+  issues: 25
+  contains_bug: 0
+  contains_dependency: 4
+kinesisvideo-common:
+  name: kinesisvideo-common
+  issues: 272
+  contains_bug: 0
+  contains_dependency: 8
+kinesisvideo-ros1:
+  name: kinesisvideo-ros1
+  issues: 312
+  contains_bug: 13
+  contains_dependency: 8
+kobuki:
+  name: kobuki
+  issues: 100
+  contains_bug: 7
+  contains_dependency: 8
+kobuki_core:
+  name: kobuki_core
+  issues: 43
+  contains_bug: 7
+  contains_dependency: 1
+laser_geometry:
+  name: laser_geometry
+  issues: 46
+  contains_bug: 4
+  contains_dependency: 11
+laser_pipeline:
+  name: laser_pipeline
+  issues: 6
+  contains_bug: 0
+  contains_dependency: 0
+laser_proc:
+  name: laser_proc
+  issues: 5
+  contains_bug: 0
+  contains_dependency: 1
+lauv_gazebo:
+  name: lauv_gazebo
+  issues: 12
+  contains_bug: 0
+  contains_dependency: 0
+leap_motion:
+  name: leap_motion
+  issues: 53
+  contains_bug: 5
+  contains_dependency: 4
+lex-ros1:
+  name: lex-ros1
+  issues: 216
+  contains_bug: 0
+  contains_dependency: 0
+lgsvl_msgs:
+  name: lgsvl_msgs
+  issues: 1
+  contains_bug: 0
+  contains_dependency: 0
+libsick_ldmrs:
+  name: libsick_ldmrs
+  issues: 3
+  contains_bug: 0
+  contains_dependency: 0
+libuvc:
+  name: libuvc
+  issues: 130
+  contains_bug: 7
+  contains_dependency: 2
+libuvc_ros:
+  name: libuvc_ros
+  issues: 62
+  contains_bug: 5
+  contains_dependency: 2
+linux_networking:
+  name: linux_networking
+  issues: 2
+  contains_bug: 0
+  contains_dependency: 0
+map-merge:
+  name: map-merge
+  issues: 8
+  contains_bug: 0
+  contains_dependency: 0
+mapviz:
+  name: mapviz
+  issues: 130
+  contains_bug: 4
+  contains_dependency: 1
+marker_rviz_plugin:
+  name: marker_rviz_plugin
+  issues: 1
+  contains_bug: 0
+  contains_dependency: 0
+marti_messages:
+  name: marti_messages
+  issues: 96
+  contains_bug: 0
+  contains_dependency: 2
+marti_common:
+  name: marti_common
+  issues: 130
+  contains_bug: 4
+  contains_dependency: 1
+mav_comm:
+  name: mav_comm
+  issues: 77
+  contains_bug: 1
+  contains_dependency: 3
+mavlink-gbp-release:
+  name: mavlink-gbp-release
+  issues: 40
+  contains_bug: 0
+  contains_dependency: 0
+mavros:
+  name: mavros
+  issues: 130
+  contains_bug: 36
+  contains_dependency: 0
+mcl_3dl:
+  name: mcl_3dl
+  issues: 130
+  contains_bug: 16
+  contains_dependency: 2
+mcl_3dl_msgs:
+  name: mcl_3dl_msgs
+  issues: 6
+  contains_bug: 0
+  contains_dependency: 2
+md49_base_controller:
+  name: md49_base_controller
+  issues: 1
+  contains_bug: 0
+  contains_dependency: 0
+media_export:
+  name: media_export
+  issues: 1
+  contains_bug: 0
+  contains_dependency: 1
+message_generation:
+  name: message_generation
+  issues: 4
+  contains_bug: 0
+  contains_dependency: 3
+metapackages:
+  name: metapackages
+  issues: 27
+  contains_bug: 0
+  contains_dependency: 1
+microstrain_3dmgx2_imu:
+  name: microstrain_3dmgx2_imu
+  issues: 11
+  contains_bug: 0
+  contains_dependency: 1
+microstrain_mips:
+  name: microstrain_mips
+  issues: 24
+  contains_bug: 0
+  contains_dependency: 1
+mir_robot:
+  name: mir_robot
+  issues: 34
+  contains_bug: 0
+  contains_dependency: 0
+ml_classifiers:
+  name: ml_classifiers
+  issues: 5
+  contains_bug: 0
+  contains_dependency: 0
+gps_umd:
+  name: gps_umd
+  issues: 23
+  contains_bug: 0
+  contains_dependency: 1
+image_common:
+  name: image_common
+  issues: 130
+  contains_bug: 9
+  contains_dependency: 3
+image_pipeline:
+  name: image_pipeline
+  issues: 130
+  contains_bug: 7
+  contains_dependency: 2
+image_transport_plugins:
+  name: image_transport_plugins
+  issues: 40
+  contains_bug: 4
+  contains_dependency: 0
+imagezero_transport:
+  name: imagezero_transport
+  issues: 15
+  contains_bug: 2
+  contains_dependency: 0
+imu_pipeline:
+  name: imu_pipeline
+  issues: 12
+  contains_bug: 1
+  contains_dependency: 0
+kobuki_desktop:
+  name: kobuki_desktop
+  issues: 60
+  contains_bug: 8
+  contains_dependency: 4
+laser_assembler:
+  name: laser_assembler
+  issues: 27
+  contains_bug: 4
+  contains_dependency: 3
+laser_filtering:
+  name: laser_filtering
+  issues: 5
+  contains_bug: 0
+  contains_dependency: 0
+laser_filters:
+  name: laser_filters
+  issues: 80
+  contains_bug: 5
+  contains_dependency: 6
+mongodb_store:
+  name: mongodb_store
+  issues: 130
+  contains_bug: 6
+  contains_dependency: 8
+move_base_flex:
+  name: move_base_flex
+  issues: 130
+  contains_bug: 6
+  contains_dependency: 0
+moveit:
+  name: moveit
+  issues: 130
+  contains_bug: 6
+  contains_dependency: 8
+moveit_msgs:
+  name: moveit_msgs
+  issues: 56
+  contains_bug: 1
+  contains_dependency: 0
+moveit_python:
+  name: moveit_python
+  issues: 19
+  contains_bug: 2
+  contains_dependency: 0
+moveit_resources:
+  name: moveit_resources
+  issues: 25
+  contains_bug: 1
+  contains_dependency: 0
+moveit_sim_controller:
+  name: moveit_sim_controller
+  issues: 2
+  contains_bug: 0
+  contains_dependency: 0
+moveit_visual_tools:
+  name: moveit_visual_tools
+  issues: 56
+  contains_bug: 0
+  contains_dependency: 1
+mrpt:
+  name: mrpt
+  issues: 1820
+  contains_bug: 75
+  contains_dependency: 75
+mrpt_bridge:
+  name: mrpt_bridge
+  issues: 7
+  contains_bug: 0
+  contains_dependency: 2
+mrpt_navigation:
+  name: mrpt_navigation
+  issues: 130
+  contains_bug: 10
+  contains_dependency: 13
+mrpt_sensors:
+  name: mrpt_sensors
+  issues: 1
+  contains_bug: 0
+  contains_dependency: 0
+mrpt_slam:
+  name: mrpt_slam
+  issues: 58
+  contains_bug: 3
+  contains_dependency: 6
+multiple-object-tracking-lidar:
+  name: multiple-object-tracking-lidar
+  issues: 72
+  contains_bug: 0
+  contains_dependency: 0
+multimaster_fkie:
+  name: multimaster_fkie
+  issues: 130
+  contains_bug: 15
+  contains_dependency: 3
+mvsim:
+  name: mvsim
+  issues: 10
+  contains_bug: 0
+  contains_dependency: 0
+navigation:
+  name: navigation
+  issues: 130
+  contains_bug: 10
+  contains_dependency: 2
+navigation_2d:
+  name: navigation_2d
+  issues: 53
+  contains_bug: 6
+  contains_dependency: 0
+navigation_experimental:
+  name: navigation_experimental
+  issues: 38
+  contains_bug: 6
+  contains_dependency: 1
+navigation_layers:
+  name: navigation_layers
+  issues: 54
+  contains_bug: 1
+  contains_dependency: 1
+navigation_msgs:
+  name: navigation_msgs
+  issues: 10
+  contains_bug: 0
+  contains_dependency: 0
+neonavigation:
+  name: neonavigation
+  issues: 130
+  contains_bug: 3
+  contains_dependency: 0
+neonavigation_msgs:
+  name: neonavigation_msgs
+  issues: 15
+  contains_bug: 1
+  contains_dependency: 0
+neonavigation_rviz_plugins:
+  name: neonavigation_rviz_plugins
+  issues: 6
+  contains_bug: 0
+  contains_dependency: 0
+nerian_stereo:
+  name: nerian_stereo
+  issues: 14
+  contains_bug: 0
+  contains_dependency: 2
+network_interface:
+  name: network_interface
+  issues: 25
+  contains_bug: 0
+  contains_dependency: 1
+nmea_gps_plugin:
+  name: nmea_gps_plugin
+  issues: 7
+  contains_bug: 0
+  contains_dependency: 0
+nmea_msgs:
+  name: nmea_msgs
+  issues: 9
+  contains_bug: 0
+  contains_dependency: 0
+nmea_navsat_driver:
+  name: nmea_navsat_driver
+  issues: 80
+  contains_bug: 3
+  contains_dependency: 1
+nodelet_core:
+  name: nodelet_core
+  issues: 93
+  contains_bug: 5
+  contains_dependency: 7
+nonpersistent_voxel_layer:
+  name: nonpersistent_voxel_layer
+  issues: 9
+  contains_bug: 0
+  contains_dependency: 0
+novatel_gps_driver:
+  name: novatel_gps_driver
+  issues: 50
+  contains_bug: 1
+  contains_dependency: 1
+novatel_span_driver:
+  name: novatel_span_driver
+  issues: 45
+  contains_bug: 2
+  contains_dependency: 0
+object_recognition_msgs:
+  name: object_recognition_msgs
+  issues: 7
+  contains_bug: 0
+  contains_dependency: 0
+octomap:
+  name: octomap
+  issues: 130
+  contains_bug: 9
+  contains_dependency: 3
+octomap_mapping:
+  name: octomap_mapping
+  issues: 58
+  contains_bug: 7
+  contains_dependency: 1
+octomap_msgs:
+  name: octomap_msgs
+  issues: 11
+  contains_bug: 0
+  contains_dependency: 0
+octomap_ros:
+  name: octomap_ros
+  issues: 10
+  contains_bug: 0
+  contains_dependency: 0
+odva_ethernetip:
+  name: odva_ethernetip
+  issues: 17
+  contains_bug: 2
+  contains_dependency: 1
+omron:
+  name: omron
+  issues: 125
+  contains_bug: 4
+  contains_dependency: 0
+open_karto:
+  name: open_karto
+  issues: 18
+  contains_bug: 3
+  contains_dependency: 0
+open_manipulator:
+  name: open_manipulator
+  issues: 130
+  contains_bug: 8
+  contains_dependency: 3
+open_manipulator_msgs:
+  name: open_manipulator_msgs
+  issues: 6
+  contains_bug: 0
+  contains_dependency: 0
+open_manipulator_simulations:
+  name: open_manipulator_simulations
+  issues: 7
+  contains_bug: 0
+  contains_dependency: 0
+open_manipulator_with_tb3:
+  name: open_manipulator_with_tb3
+  issues: 15
+  contains_bug: 2
+  contains_dependency: 0
+open_manipulator_with_tb3_simulations:
+  name: open_manipulator_with_tb3_simulations
+  issues: 2
+  contains_bug: 0
+  contains_dependency: 0
+opencv_apps:
+  name: opencv_apps
+  issues: 96
+  contains_bug: 11
+  contains_dependency: 0
+openni2_camera:
+  name: openni2_camera
+  issues: 93
+  contains_bug: 5
+  contains_dependency: 5
+openni_camera:
+  name: openni_camera
+  issues: 74
+  contains_bug: 7
+  contains_dependency: 10
+optpp_catkin:
+  name: optpp_catkin
+  issues: 2
+  contains_bug: 0
+  contains_dependency: 0
+orb_slam_2_ros:
+  name: orb_slam_2_ros
+  issues: 185
+  contains_bug: 13
+  contains_dependency: 0
+orocos_kinematics_dynamics:
+  name: orocos_kinematics_dynamics
+  issues: 130
+  contains_bug: 8
+  contains_dependency: 5
+ouster:
+  name: ouster
+  issues: 13
+  contains_bug: 1
+  contains_dependency: 0
+p2os:
+  name: p2os
+  issues: 65
+  contains_bug: 2
+  contains_dependency: 4
+pacmod3:
+  name: pacmod3
+  issues: 52
+  contains_bug: 2
+  contains_dependency: 1
+pacmod_game_control:
+  name: pacmod_game_control
+  issues: 61
+  contains_bug: 2
+  contains_dependency: 1
+panda_moveit_config:
+  name: panda_moveit_config
+  issues: 40
+  contains_bug: 3
+  contains_dependency: 2
+parrot_arsdk:
+  name: parrot_arsdk
+  issues: 11
+  contains_bug: 0
+  contains_dependency: 2
+pcl_msgs:
+  name: pcl_msgs
+  issues: 11
+  contains_bug: 0
+  contains_dependency: 0
+people:
+  name: people
+  issues: 78
+  contains_bug: 6
+  contains_dependency: 2
+pepperl_fuchs:
+  name: pepperl_fuchs
+  issues: 11
+  contains_bug: 0
+  contains_dependency: 0
+perception_pcl:
+  name: perception_pcl
+  issues: 130
+  contains_bug: 8
+  contains_dependency: 5
+phidgets_drivers:
+  name: phidgets_drivers
+  issues: 41
+  contains_bug: 1
+  contains_dependency: 1
+photo:
+  name: photo
+  issues: 12
+  contains_bug: 1
+  contains_dependency: 1
+pilz_industrial_motion:
+  name: pilz_industrial_motion
+  issues: 130
+  contains_bug: 3
+  contains_dependency: 7
+pilz_robots:
+  name: pilz_robots
+  issues: 130
+  contains_bug: 6
+  contains_dependency: 3
+pinocchio:
+  name: pinocchio
+  issues: 130
+  contains_bug: 4
+  contains_dependency: 2
+PlotJuggler:
+  name: PlotJuggler
+  issues: 520
+  contains_bug: 39
+  contains_dependency: 10
+pluginlib:
+  name: pluginlib
+  issues: 130
+  contains_bug: 2
+  contains_dependency: 2
+pointcloud_to_laserscan:
+  name: pointcloud_to_laserscan
+  issues: 32
+  contains_bug: 0
+  contains_dependency: 0
+pose_cov_ops:
+  name: pose_cov_ops
+  issues: 6
+  contains_bug: 0
+  contains_dependency: 0
+power_msgs:
+  name: power_msgs
+  issues: 10
+  contains_bug: 0
+  contains_dependency: 0
+pr2_common:
+  name: pr2_common
+  issues: 130
+  contains_bug: 6
+  contains_dependency: 3
+pr2_ethercat_drivers:
+  name: pr2_ethercat_drivers
+  issues: 77
+  contains_bug: 9
+  contains_dependency: 4
+pr2_kinematics:
+  name: pr2_kinematics
+  issues: 12
+  contains_bug: 0
+  contains_dependency: 2
+pr2_simulator:
+  name: pr2_simulator
+  issues: 130
+  contains_bug: 5
+  contains_dependency: 4
+prbt_grippers:
+  name: prbt_grippers
+  issues: 9
+  contains_bug: 0
+  contains_dependency: 0
+prosilica_driver:
+  name: prosilica_driver
+  issues: 16
+  contains_bug: 3
+  contains_dependency: 1
+prosilica_gige_sdk:
+  name: prosilica_gige_sdk
+  issues: 4
+  contains_bug: 0
+  contains_dependency: 0
+py_trees:
+  name: py_trees
+  issues: 130
+  contains_bug: 10
+  contains_dependency: 0
+py_trees_msgs:
+  name: py_trees_msgs
+  issues: 11
+  contains_bug: 1
+  contains_dependency: 0
+py_trees_ros:
+  name: py_trees_ros
+  issues: 98
+  contains_bug: 4
+  contains_dependency: 3
+pybind11_catkin:
+  name: pybind11_catkin
+  issues: 8
+  contains_bug: 1
+  contains_dependency: 0
+pyros-test:
+  name: pyros-test
+  issues: 27
+  contains_bug: 0
+  contains_dependency: 0
+pyros-utils:
+  name: pyros-utils
+  issues: 30
+  contains_bug: 0
+  contains_dependency: 0
+python_qt_binding:
+  name: python_qt_binding
+  issues: 69
+  contains_bug: 7
+  contains_dependency: 5
+qt_gui_core:
+  name: qt_gui_core
+  issues: 130
+  contains_bug: 4
+  contains_dependency: 3
+quaternion_operation:
+  name: quaternion_operation
+  issues: 11
+  contains_bug: 0
+  contains_dependency: 0
+rail_manipulation_msgs:
+  name: rail_manipulation_msgs
+  issues: 4
+  contains_bug: 0
+  contains_dependency: 0
+rail_segmentation:
+  name: rail_segmentation
+  issues: 11
+  contains_bug: 0
+  contains_dependency: 0
+random_numbers:
+  name: random_numbers
+  issues: 17
+  contains_bug: 0
+  contains_dependency: 1
+raspimouse_sim:
+  name: raspimouse_sim
+  issues: 25
+  contains_bug: 3
+  contains_dependency: 0
+rc_cloud_accumulator:
+  name: rc_cloud_accumulator
+  issues: 1
+  contains_bug: 1
+  contains_dependency: 1
+rc_dynamics_api:
+  name: rc_dynamics_api
+  issues: 1
+  contains_bug: 0
+  contains_dependency: 0
+rc_genicam_api:
+  name: rc_genicam_api
+  issues: 14
+  contains_bug: 4
+  contains_dependency: 0
+rc_visard_ros:
+  name: rc_visard_ros
+  issues: 28
+  contains_bug: 2
+  contains_dependency: 2
+realtime_tools:
+  name: realtime_tools
+  issues: 42
+  contains_bug: 1
+  contains_dependency: 0
+resource_retriever:
+  name: resource_retriever
+  issues: 28
+  contains_bug: 3
+  contains_dependency: 7
+rexrov2:
+  name: rexrov2
+  issues: 30
+  contains_bug: 0
+  contains_dependency: 0
+rgbd_launch:
+  name: rgbd_launch
+  issues: 45
+  contains_bug: 0
+  contains_dependency: 3
+robot_activity:
+  name: robot_activity
+  issues: 4
+  contains_bug: 0
+  contains_dependency: 0
+robot_calibration:
+  name: robot_calibration
+  issues: 68
+  contains_bug: 8
+  contains_dependency: 1
+robot_controllers:
+  name: robot_controllers
+  issues: 40
+  contains_bug: 6
+  contains_dependency: 1
+robot_localization:
+  name: robot_localization
+  issues: 130
+  contains_bug: 12
+  contains_dependency: 2
+robot_navigation:
+  name: robot_navigation
+  issues: 47
+  contains_bug: 3
+  contains_dependency: 1
+robot_pose_ekf:
+  name: robot_pose_ekf
+  issues: 3
+  contains_bug: 0
+  contains_dependency: 0
+robot_state_publisher:
+  name: robot_state_publisher
+  issues: 130
+  contains_bug: 9
+  contains_dependency: 11
+robot_upstart:
+  name: robot_upstart
+  issues: 85
+  contains_bug: 4
+  contains_dependency: 2
+robotis_manipulator:
+  name: robotis_manipulator
+  issues: 13
+  contains_bug: 1
+  contains_dependency: 0
+rocon_msgs:
+  name: rocon_msgs
+  issues: 130
+  contains_bug: 0
+  contains_dependency: 3
+rocon_tools:
+  name: rocon_tools
+  issues: 130
+  contains_bug: 4
+  contains_dependency: 1
+ros:
+  name: ros
+  issues: 130
+  contains_bug: 8
+  contains_dependency: 10
+ros_canopen:
+  name: ros_canopen
+  issues: 130
+  contains_bug: 8
+  contains_dependency: 0
+ros_comm:
+  name: ros_comm
+  issues: 130
+  contains_bug: 5
+  contains_dependency: 1
+ros_comm_msgs:
+  name: ros_comm_msgs
+  issues: 9
+  contains_bug: 0
+  contains_dependency: 3
+ros_control:
+  name: ros_control
+  issues: 130
+  contains_bug: 5
+  contains_dependency: 0
+ros_control_boilerplate:
+  name: ros_control_boilerplate
+  issues: 31
+  contains_bug: 1
+  contains_dependency: 0
+ros_controllers:
+  name: ros_controllers
+  issues: 130
+  contains_bug: 8
+  contains_dependency: 0
+ros_emacs_utils:
+  name: ros_emacs_utils
+  issues: 28
+  contains_bug: 4
+  contains_dependency: 0
+ros_environment:
+  name: ros_environment
+  issues: 15
+  contains_bug: 0
+  contains_dependency: 0
+monitoringmessages-ros1:
+  name: monitoringmessages-ros1
+  issues: 19
+  contains_bug: 0
+  contains_dependency: 2
+ros_pytest:
+  name: ros_pytest
+  issues: 4
+  contains_bug: 0
+  contains_dependency: 0
+ros_realtime:
+  name: ros_realtime
+  issues: 12
+  contains_bug: 0
+  contains_dependency: 0
+ros_tutorials:
+  name: ros_tutorials
+  issues: 53
+  contains_bug: 6
+  contains_dependency: 3
+ros_type_introspection:
+  name: ros_type_introspection
+  issues: 41
+  contains_bug: 1
+  contains_dependency: 0
+rosauth:
+  name: rosauth
+  issues: 24
+  contains_bug: 0
+  contains_dependency: 5
+rosbridge_suite:
+  name: rosbridge_suite
+  issues: 130
+  contains_bug: 8
+  contains_dependency: 2
+roscompile:
+  name: roscompile
+  issues: 52
+  contains_bug: 1
+  contains_dependency: 2
+rosconsole:
+  name: rosconsole
+  issues: 31
+  contains_bug: 7
+  contains_dependency: 2
+rosconsole_bridge:
+  name: rosconsole_bridge
+  issues: 17
+  contains_bug: 4
+  contains_dependency: 3
+roscpp_core:
+  name: roscpp_core
+  issues: 130
+  contains_bug: 11
+  contains_dependency: 3
+rosdoc_lite:
+  name: rosdoc_lite
+  issues: 85
+  contains_bug: 6
+  contains_dependency: 6
+rosfmt:
+  name: rosfmt
+  issues: 1
+  contains_bug: 0
+  contains_dependency: 0
+roslint:
+  name: roslint
+  issues: 69
+  contains_bug: 2
+  contains_dependency: 1
+roslisp:
+  name: roslisp
+  issues: 41
+  contains_bug: 5
+  contains_dependency: 4
+roslisp_common:
+  name: roslisp_common
+  issues: 55
+  contains_bug: 6
+  contains_dependency: 1
+rosmon:
+  name: rosmon
+  issues: 94
+  contains_bug: 5
+  contains_dependency: 3
+rospack:
+  name: rospack
+  issues: 130
+  contains_bug: 3
+  contains_dependency: 12
+rosparam_shortcuts:
+  name: rosparam_shortcuts
+  issues: 10
+  contains_bug: 2
+  contains_dependency: 0
+rospilot:
+  name: rospilot
+  issues: 95
+  contains_bug: 2
+  contains_dependency: 8
+rospy_message_converter:
+  name: rospy_message_converter
+  issues: 27
+  contains_bug: 0
+  contains_dependency: 2
+rosserial:
+  name: rosserial
+  issues: 130
+  contains_bug: 4
+  contains_dependency: 0
+rostate_machine:
+  name: rostate_machine
+  issues: 16
+  contains_bug: 0
+  contains_dependency: 0
+roswww:
+  name: roswww
+  issues: 48
+  contains_bug: 1
+  contains_dependency: 4

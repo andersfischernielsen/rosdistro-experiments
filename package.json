@@ -1,0 +1,19 @@
+{
+  "name": "rosdistro-bugfetcher",
+  "version": "1.0.0",
+  "description": "A quick-and-dirty scraper of all issues containing 'dependency' and 'undeclared' in their titles/description for SQUARE research.",
+  "main": "fetch.js",
+  "dependencies": {
+    "@types/js-yaml": "^3.12.1",
+    "@types/request": "^2.48.1",
+    "dotenv": "^8.0.0",
+    "js-yaml": "^3.13.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anders Fischer-Nielsen",
+  "license": "ISC"
+}
