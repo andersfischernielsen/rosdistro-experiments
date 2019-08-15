@@ -20,9 +20,9 @@ ar_track_alvar:
   contains_dependency: 0
 arbotix_ros:
   name: arbotix_ros
-  issues: 602
+  issues: 645
   contains_bug: 12
-  contains_dependency: 14
+  contains_dependency: 15
 audio_common:
   name: audio_common
   issues: 260
@@ -296,7 +296,7 @@ moveit:
 mrpt:
   name: mrpt
   issues: 2600
-  contains_bug: 158
+  contains_bug: 152
   contains_dependency: 117
 mrpt_navigation:
   name: mrpt_navigation
@@ -371,8 +371,8 @@ pinocchio:
 PlotJuggler:
   name: PlotJuggler
   issues: 910
-  contains_bug: 98
-  contains_dependency: 22
+  contains_bug: 92
+  contains_dependency: 21
 pluginlib:
   name: pluginlib
   issues: 130
@@ -551,17 +551,17 @@ vision_opencv:
 vrpn:
   name: vrpn
   issues: 130
-  contains_bug: 22
+  contains_bug: 17
   contains_dependency: 1
 xacro:
   name: xacro
   issues: 130
-  contains_bug: 9
+  contains_bug: 2
   contains_dependency: 3
 ethzasl_xsens_driver:
   name: ethzasl_xsens_driver
   issues: 130
-  contains_bug: 23
+  contains_bug: 4
   contains_dependency: 2
 yp-spur:
   name: yp-spur
@@ -571,5 +571,5 @@ yp-spur:
 yujin_ocs:
   name: yujin_ocs
   issues: 130
-  contains_bug: 11
-  contains_dependency: 11
+  contains_bug: 4
+  contains_dependency: 6

@@ -1,6 +1,6 @@
 abseil-cpp:
   name: abseil-cpp
-  issues: 80
+  issues: 95
   contains_bug: 0
   contains_dependency: 0
 ackermann_msgs:
@@ -50,9 +50,9 @@ ar_track_alvar:
   contains_dependency: 0
 arbotix_ros:
   name: arbotix_ros
-  issues: 602
+  issues: 645
   contains_bug: 12
-  contains_dependency: 14
+  contains_dependency: 15
 astuff_sensor_msgs:
   name: astuff_sensor_msgs
   issues: 70

@@ -1,0 +1,805 @@
+actionlib:
+  name: actionlib
+  issues: 390
+  contains_bug: 23
+  contains_dependency: 18
+  fraction_of_issues_contain_bug: 0.05897435897435897
+  fraction_of_bug_issues_contain_dependency: 0.782608695652174
+apriltag:
+  name: apriltag
+  issues: 102
+  contains_bug: 12
+  contains_dependency: 2
+  fraction_of_issues_contain_bug: 0.11764705882352941
+  fraction_of_bug_issues_contain_dependency: 0.16666666666666666
+apriltag_ros:
+  name: apriltag_ros
+  issues: 120
+  contains_bug: 9
+  contains_dependency: 2
+  fraction_of_issues_contain_bug: 0.075
+  fraction_of_bug_issues_contain_dependency: 0.2222222222222222
+ar_track_alvar:
+  name: ar_track_alvar
+  issues: 152
+  contains_bug: 7
+  contains_dependency: 0
+  fraction_of_issues_contain_bug: 0.046052631578947366
+  fraction_of_bug_issues_contain_dependency: 0
+arbotix_ros:
+  name: arbotix_ros
+  issues: 645
+  contains_bug: 12
+  contains_dependency: 15
+  fraction_of_issues_contain_bug: 0.018604651162790697
+  fraction_of_bug_issues_contain_dependency: 1.25
+audio_common:
+  name: audio_common
+  issues: 260
+  contains_bug: 21
+  contains_dependency: 12
+  fraction_of_issues_contain_bug: 0.08076923076923077
+  fraction_of_bug_issues_contain_dependency: 0.5714285714285714
+utils-common:
+  name: utils-common
+  issues: 588
+  contains_bug: 1
+  contains_dependency: 28
+  fraction_of_issues_contain_bug: 0.0017006802721088435
+  fraction_of_bug_issues_contain_dependency: 28
+utils-ros1:
+  name: utils-ros1
+  issues: 378
+  contains_bug: 0
+  contains_dependency: 14
+  fraction_of_issues_contain_bug: 0
+  fraction_of_bug_issues_contain_dependency: .inf
+bond_core:
+  name: bond_core
+  issues: 108
+  contains_bug: 2
+  contains_dependency: 5
+  fraction_of_issues_contain_bug: 0.018518518518518517
+  fraction_of_bug_issues_contain_dependency: 2.5
+capabilities:
+  name: capabilities
+  issues: 176
+  contains_bug: 8
+  contains_dependency: 13
+  fraction_of_issues_contain_bug: 0.045454545454545456
+  fraction_of_bug_issues_contain_dependency: 1.625
+catkin:
+  name: catkin
+  issues: 130
+  contains_bug: 18
+  contains_dependency: 5
+  fraction_of_issues_contain_bug: 0.13846153846153847
+  fraction_of_bug_issues_contain_dependency: 0.2777777777777778
+catkin_pip:
+  name: catkin_pip
+  issues: 130
+  contains_bug: 66
+  contains_dependency: 101
+  fraction_of_issues_contain_bug: 0.5076923076923077
+  fraction_of_bug_issues_contain_dependency: 1.5303030303030303
+class_loader:
+  name: class_loader
+  issues: 130
+  contains_bug: 14
+  contains_dependency: 2
+  fraction_of_issues_contain_bug: 0.1076923076923077
+  fraction_of_bug_issues_contain_dependency: 0.14285714285714285
+cloudwatch-common:
+  name: cloudwatch-common
+  issues: 520
+  contains_bug: 13
+  contains_dependency: 0
+  fraction_of_issues_contain_bug: 0.025
+  fraction_of_bug_issues_contain_dependency: 0
+cloudwatchlogs-ros1:
+  name: cloudwatchlogs-ros1
+  issues: 663
+  contains_bug: 13
+  contains_dependency: 26
+  fraction_of_issues_contain_bug: 0.0196078431372549
+  fraction_of_bug_issues_contain_dependency: 2
+cloudwatchmetrics-ros1:
+  name: cloudwatchmetrics-ros1
+  issues: 470
+  contains_bug: 4
+  contains_dependency: 13
+  fraction_of_issues_contain_bug: 0.00851063829787234
+  fraction_of_bug_issues_contain_dependency: 3.25
+cob_common:
+  name: cob_common
+  issues: 130
+  contains_bug: 0
+  contains_dependency: 2
+  fraction_of_issues_contain_bug: 0
+  fraction_of_bug_issues_contain_dependency: .inf
+cob_environments:
+  name: cob_environments
+  issues: 130
+  contains_bug: 0
+  contains_dependency: 4
+  fraction_of_issues_contain_bug: 0
+  fraction_of_bug_issues_contain_dependency: .inf
+common_msgs:
+  name: common_msgs
+  issues: 130
+  contains_bug: 8
+  contains_dependency: 4
+  fraction_of_issues_contain_bug: 0.06153846153846154
+  fraction_of_bug_issues_contain_dependency: 0.5
+diagnostics:
+  name: diagnostics
+  issues: 130
+  contains_bug: 3
+  contains_dependency: 3
+  fraction_of_issues_contain_bug: 0.023076923076923078
+  fraction_of_bug_issues_contain_dependency: 1
+dynamic_reconfigure:
+  name: dynamic_reconfigure
+  issues: 130
+  contains_bug: 4
+  contains_dependency: 2
+  fraction_of_issues_contain_bug: 0.03076923076923077
+  fraction_of_bug_issues_contain_dependency: 0.5
+dynamixel-workbench:
+  name: dynamixel-workbench
+  issues: 100
+  contains_bug: 7
+  contains_dependency: 2
+  fraction_of_issues_contain_bug: 0.07
+  fraction_of_bug_issues_contain_dependency: 0.2857142857142857
+DynamixelSDK:
+  name: DynamixelSDK
+  issues: 1560
+  contains_bug: 80
+  contains_dependency: 0
+  fraction_of_issues_contain_bug: 0.05128205128205128
+  fraction_of_bug_issues_contain_dependency: 0
+ros_driver:
+  name: ros_driver
+  issues: 312
+  contains_bug: 2
+  contains_dependency: 0
+  fraction_of_issues_contain_bug: 0.00641025641025641
+  fraction_of_bug_issues_contain_dependency: 0
+exotica:
+  name: exotica
+  issues: 130
+  contains_bug: 15
+  contains_dependency: 5
+  fraction_of_issues_contain_bug: 0.11538461538461539
+  fraction_of_bug_issues_contain_dependency: 0.3333333333333333
+fetch_ros:
+  name: fetch_ros
+  issues: 130
+  contains_bug: 6
+  contains_dependency: 3
+  fraction_of_issues_contain_bug: 0.046153846153846156
+  fraction_of_bug_issues_contain_dependency: 0.5
+fiducials:
+  name: fiducials
+  issues: 130
+  contains_bug: 16
+  contains_dependency: 3
+  fraction_of_issues_contain_bug: 0.12307692307692308
+  fraction_of_bug_issues_contain_dependency: 0.1875
+find-object:
+  name: find-object
+  issues: 1128
+  contains_bug: 88
+  contains_dependency: 68
+  fraction_of_issues_contain_bug: 0.07801418439716312
+  fraction_of_bug_issues_contain_dependency: 0.7727272727272727
+flexbe_behavior_engine:
+  name: flexbe_behavior_engine
+  issues: 847
+  contains_bug: 51
+  contains_dependency: 72
+  fraction_of_issues_contain_bug: 0.0602125147579693
+  fraction_of_bug_issues_contain_dependency: 1.411764705882353
+gazebo_ros_pkgs:
+  name: gazebo_ros_pkgs
+  issues: 130
+  contains_bug: 16
+  contains_dependency: 5
+  fraction_of_issues_contain_bug: 0.12307692307692308
+  fraction_of_bug_issues_contain_dependency: 0.3125
+genpy:
+  name: genpy
+  issues: 130
+  contains_bug: 9
+  contains_dependency: 3
+  fraction_of_issues_contain_bug: 0.06923076923076923
+  fraction_of_bug_issues_contain_dependency: 0.3333333333333333
+geometric_shapes:
+  name: geometric_shapes
+  issues: 130
+  contains_bug: 19
+  contains_dependency: 11
+  fraction_of_issues_contain_bug: 0.14615384615384616
+  fraction_of_bug_issues_contain_dependency: 0.5789473684210527
+geometry:
+  name: geometry
+  issues: 130
+  contains_bug: 16
+  contains_dependency: 6
+  fraction_of_issues_contain_bug: 0.12307692307692308
+  fraction_of_bug_issues_contain_dependency: 0.375
+geometry2:
+  name: geometry2
+  issues: 130
+  contains_bug: 16
+  contains_dependency: 3
+  fraction_of_issues_contain_bug: 0.12307692307692308
+  fraction_of_bug_issues_contain_dependency: 0.1875
+grid_map:
+  name: grid_map
+  issues: 130
+  contains_bug: 5
+  contains_dependency: 3
+  fraction_of_issues_contain_bug: 0.038461538461538464
+  fraction_of_bug_issues_contain_dependency: 0.6
+catkin_grpc:
+  name: catkin_grpc
+  issues: 374
+  contains_bug: 12
+  contains_dependency: 0
+  fraction_of_issues_contain_bug: 0.03208556149732621
+  fraction_of_bug_issues_contain_dependency: 0
+kinesisvideo-encoder-common:
+  name: kinesisvideo-encoder-common
+  issues: 341
+  contains_bug: 0
+  contains_dependency: 0
+  fraction_of_issues_contain_bug: 0
+  fraction_of_bug_issues_contain_dependency: .nan
+kinesisvideo-encoder-ros1:
+  name: kinesisvideo-encoder-ros1
+  issues: 352
+  contains_bug: 0
+  contains_dependency: 0
+  fraction_of_issues_contain_bug: 0
+  fraction_of_bug_issues_contain_dependency: .nan
+health-metrics-collector-ros1:
+  name: health-metrics-collector-ros1
+  issues: 242
+  contains_bug: 0
+  contains_dependency: 0
+  fraction_of_issues_contain_bug: 0
+  fraction_of_bug_issues_contain_dependency: .nan
+hls_lfcd_lds_driver:
+  name: hls_lfcd_lds_driver
+  issues: 473
+  contains_bug: 12
+  contains_dependency: 11
+  fraction_of_issues_contain_bug: 0.02536997885835095
+  fraction_of_bug_issues_contain_dependency: 0.9166666666666666
+industrial_core:
+  name: industrial_core
+  issues: 130
+  contains_bug: 15
+  contains_dependency: 4
+  fraction_of_issues_contain_bug: 0.11538461538461539
+  fraction_of_bug_issues_contain_dependency: 0.26666666666666666
+joystick_drivers:
+  name: joystick_drivers
+  issues: 130
+  contains_bug: 5
+  contains_dependency: 4
+  fraction_of_issues_contain_bug: 0.038461538461538464
+  fraction_of_bug_issues_contain_dependency: 0.8
+jsk_3rdparty:
+  name: jsk_3rdparty
+  issues: 130
+  contains_bug: 12
+  contains_dependency: 4
+  fraction_of_issues_contain_bug: 0.09230769230769231
+  fraction_of_bug_issues_contain_dependency: 0.3333333333333333
+jsk_recognition:
+  name: jsk_recognition
+  issues: 130
+  contains_bug: 6
+  contains_dependency: 6
+  fraction_of_issues_contain_bug: 0.046153846153846156
+  fraction_of_bug_issues_contain_dependency: 1
+jsk_roseus:
+  name: jsk_roseus
+  issues: 130
+  contains_bug: 18
+  contains_dependency: 2
+  fraction_of_issues_contain_bug: 0.13846153846153847
+  fraction_of_bug_issues_contain_dependency: 0.1111111111111111
+kinesisvideo-common:
+  name: kinesisvideo-common
+  issues: 374
+  contains_bug: 0
+  contains_dependency: 11
+  fraction_of_issues_contain_bug: 0
+  fraction_of_bug_issues_contain_dependency: .inf
+kinesisvideo-ros1:
+  name: kinesisvideo-ros1
+  issues: 429
+  contains_bug: 19
+  contains_dependency: 11
+  fraction_of_issues_contain_bug: 0.04428904428904429
+  fraction_of_bug_issues_contain_dependency: 0.5789473684210527
+kobuki:
+  name: kobuki
+  issues: 100
+  contains_bug: 7
+  contains_dependency: 8
+  fraction_of_issues_contain_bug: 0.07
+  fraction_of_bug_issues_contain_dependency: 1.1428571428571428
+lex-ros1:
+  name: lex-ros1
+  issues: 297
+  contains_bug: 0
+  contains_dependency: 0
+  fraction_of_issues_contain_bug: 0
+  fraction_of_bug_issues_contain_dependency: .nan
+libuvc:
+  name: libuvc
+  issues: 130
+  contains_bug: 7
+  contains_dependency: 2
+  fraction_of_issues_contain_bug: 0.05384615384615385
+  fraction_of_bug_issues_contain_dependency: 0.2857142857142857
+mapviz:
+  name: mapviz
+  issues: 130
+  contains_bug: 4
+  contains_dependency: 1
+  fraction_of_issues_contain_bug: 0.03076923076923077
+  fraction_of_bug_issues_contain_dependency: 0.25
+marti_common:
+  name: marti_common
+  issues: 130
+  contains_bug: 4
+  contains_dependency: 1
+  fraction_of_issues_contain_bug: 0.03076923076923077
+  fraction_of_bug_issues_contain_dependency: 0.25
+mavros:
+  name: mavros
+  issues: 130
+  contains_bug: 36
+  contains_dependency: 0
+  fraction_of_issues_contain_bug: 0.27692307692307694
+  fraction_of_bug_issues_contain_dependency: 0
+mcl_3dl:
+  name: mcl_3dl
+  issues: 130
+  contains_bug: 16
+  contains_dependency: 2
+  fraction_of_issues_contain_bug: 0.12307692307692308
+  fraction_of_bug_issues_contain_dependency: 0.125
+image_common:
+  name: image_common
+  issues: 130
+  contains_bug: 9
+  contains_dependency: 3
+  fraction_of_issues_contain_bug: 0.06923076923076923
+  fraction_of_bug_issues_contain_dependency: 0.3333333333333333
+image_pipeline:
+  name: image_pipeline
+  issues: 130
+  contains_bug: 7
+  contains_dependency: 2
+  fraction_of_issues_contain_bug: 0.05384615384615385
+  fraction_of_bug_issues_contain_dependency: 0.2857142857142857
+mongodb_store:
+  name: mongodb_store
+  issues: 130
+  contains_bug: 6
+  contains_dependency: 8
+  fraction_of_issues_contain_bug: 0.046153846153846156
+  fraction_of_bug_issues_contain_dependency: 1.3333333333333333
+move_base_flex:
+  name: move_base_flex
+  issues: 130
+  contains_bug: 6
+  contains_dependency: 0
+  fraction_of_issues_contain_bug: 0.046153846153846156
+  fraction_of_bug_issues_contain_dependency: 0
+moveit:
+  name: moveit
+  issues: 130
+  contains_bug: 6
+  contains_dependency: 8
+  fraction_of_issues_contain_bug: 0.046153846153846156
+  fraction_of_bug_issues_contain_dependency: 1.3333333333333333
+mrpt:
+  name: mrpt
+  issues: 2600
+  contains_bug: 152
+  contains_dependency: 117
+  fraction_of_issues_contain_bug: 0.05846153846153846
+  fraction_of_bug_issues_contain_dependency: 0.7697368421052632
+mrpt_navigation:
+  name: mrpt_navigation
+  issues: 130
+  contains_bug: 10
+  contains_dependency: 13
+  fraction_of_issues_contain_bug: 0.07692307692307693
+  fraction_of_bug_issues_contain_dependency: 1.3
+multiple-object-tracking-lidar:
+  name: multiple-object-tracking-lidar
+  issues: 108
+  contains_bug: 0
+  contains_dependency: 0
+  fraction_of_issues_contain_bug: 0
+  fraction_of_bug_issues_contain_dependency: .nan
+multimaster_fkie:
+  name: multimaster_fkie
+  issues: 130
+  contains_bug: 15
+  contains_dependency: 3
+  fraction_of_issues_contain_bug: 0.11538461538461539
+  fraction_of_bug_issues_contain_dependency: 0.2
+navigation:
+  name: navigation
+  issues: 130
+  contains_bug: 10
+  contains_dependency: 2
+  fraction_of_issues_contain_bug: 0.07692307692307693
+  fraction_of_bug_issues_contain_dependency: 0.2
+neonavigation:
+  name: neonavigation
+  issues: 130
+  contains_bug: 3
+  contains_dependency: 0
+  fraction_of_issues_contain_bug: 0.023076923076923078
+  fraction_of_bug_issues_contain_dependency: 0
+octomap:
+  name: octomap
+  issues: 130
+  contains_bug: 9
+  contains_dependency: 3
+  fraction_of_issues_contain_bug: 0.06923076923076923
+  fraction_of_bug_issues_contain_dependency: 0.3333333333333333
+omron:
+  name: omron
+  issues: 200
+  contains_bug: 7
+  contains_dependency: 0
+  fraction_of_issues_contain_bug: 0.035
+  fraction_of_bug_issues_contain_dependency: 0
+open_manipulator:
+  name: open_manipulator
+  issues: 130
+  contains_bug: 8
+  contains_dependency: 3
+  fraction_of_issues_contain_bug: 0.06153846153846154
+  fraction_of_bug_issues_contain_dependency: 0.375
+orb_slam_2_ros:
+  name: orb_slam_2_ros
+  issues: 296
+  contains_bug: 25
+  contains_dependency: 0
+  fraction_of_issues_contain_bug: 0.08445945945945946
+  fraction_of_bug_issues_contain_dependency: 0
+orocos_kinematics_dynamics:
+  name: orocos_kinematics_dynamics
+  issues: 130
+  contains_bug: 8
+  contains_dependency: 5
+  fraction_of_issues_contain_bug: 0.06153846153846154
+  fraction_of_bug_issues_contain_dependency: 0.625
+perception_pcl:
+  name: perception_pcl
+  issues: 130
+  contains_bug: 8
+  contains_dependency: 5
+  fraction_of_issues_contain_bug: 0.06153846153846154
+  fraction_of_bug_issues_contain_dependency: 0.625
+pilz_industrial_motion:
+  name: pilz_industrial_motion
+  issues: 130
+  contains_bug: 3
+  contains_dependency: 7
+  fraction_of_issues_contain_bug: 0.023076923076923078
+  fraction_of_bug_issues_contain_dependency: 2.3333333333333335
+pilz_robots:
+  name: pilz_robots
+  issues: 130
+  contains_bug: 6
+  contains_dependency: 3
+  fraction_of_issues_contain_bug: 0.046153846153846156
+  fraction_of_bug_issues_contain_dependency: 0.5
+pinocchio:
+  name: pinocchio
+  issues: 130
+  contains_bug: 4
+  contains_dependency: 2
+  fraction_of_issues_contain_bug: 0.03076923076923077
+  fraction_of_bug_issues_contain_dependency: 0.5
+PlotJuggler:
+  name: PlotJuggler
+  issues: 910
+  contains_bug: 92
+  contains_dependency: 21
+  fraction_of_issues_contain_bug: 0.1010989010989011
+  fraction_of_bug_issues_contain_dependency: 0.22826086956521738
+pluginlib:
+  name: pluginlib
+  issues: 130
+  contains_bug: 2
+  contains_dependency: 2
+  fraction_of_issues_contain_bug: 0.015384615384615385
+  fraction_of_bug_issues_contain_dependency: 1
+pr2_common:
+  name: pr2_common
+  issues: 130
+  contains_bug: 6
+  contains_dependency: 3
+  fraction_of_issues_contain_bug: 0.046153846153846156
+  fraction_of_bug_issues_contain_dependency: 0.5
+pr2_simulator:
+  name: pr2_simulator
+  issues: 130
+  contains_bug: 5
+  contains_dependency: 4
+  fraction_of_issues_contain_bug: 0.038461538461538464
+  fraction_of_bug_issues_contain_dependency: 0.8
+py_trees:
+  name: py_trees
+  issues: 130
+  contains_bug: 10
+  contains_dependency: 0
+  fraction_of_issues_contain_bug: 0.07692307692307693
+  fraction_of_bug_issues_contain_dependency: 0
+qt_gui_core:
+  name: qt_gui_core
+  issues: 130
+  contains_bug: 4
+  contains_dependency: 3
+  fraction_of_issues_contain_bug: 0.03076923076923077
+  fraction_of_bug_issues_contain_dependency: 0.75
+robot_localization:
+  name: robot_localization
+  issues: 130
+  contains_bug: 12
+  contains_dependency: 2
+  fraction_of_issues_contain_bug: 0.09230769230769231
+  fraction_of_bug_issues_contain_dependency: 0.16666666666666666
+robot_state_publisher:
+  name: robot_state_publisher
+  issues: 130
+  contains_bug: 9
+  contains_dependency: 11
+  fraction_of_issues_contain_bug: 0.06923076923076923
+  fraction_of_bug_issues_contain_dependency: 1.2222222222222223
+rocon_msgs:
+  name: rocon_msgs
+  issues: 130
+  contains_bug: 0
+  contains_dependency: 3
+  fraction_of_issues_contain_bug: 0
+  fraction_of_bug_issues_contain_dependency: .inf
+rocon_tools:
+  name: rocon_tools
+  issues: 130
+  contains_bug: 4
+  contains_dependency: 1
+  fraction_of_issues_contain_bug: 0.03076923076923077
+  fraction_of_bug_issues_contain_dependency: 0.25
+ros:
+  name: ros
+  issues: 130
+  contains_bug: 8
+  contains_dependency: 10
+  fraction_of_issues_contain_bug: 0.06153846153846154
+  fraction_of_bug_issues_contain_dependency: 1.25
+ros_canopen:
+  name: ros_canopen
+  issues: 130
+  contains_bug: 8
+  contains_dependency: 0
+  fraction_of_issues_contain_bug: 0.06153846153846154
+  fraction_of_bug_issues_contain_dependency: 0
+ros_comm:
+  name: ros_comm
+  issues: 130
+  contains_bug: 5
+  contains_dependency: 1
+  fraction_of_issues_contain_bug: 0.038461538461538464
+  fraction_of_bug_issues_contain_dependency: 0.2
+ros_control:
+  name: ros_control
+  issues: 130
+  contains_bug: 5
+  contains_dependency: 0
+  fraction_of_issues_contain_bug: 0.038461538461538464
+  fraction_of_bug_issues_contain_dependency: 0
+ros_controllers:
+  name: ros_controllers
+  issues: 130
+  contains_bug: 8
+  contains_dependency: 0
+  fraction_of_issues_contain_bug: 0.06153846153846154
+  fraction_of_bug_issues_contain_dependency: 0
+rosbridge_suite:
+  name: rosbridge_suite
+  issues: 130
+  contains_bug: 8
+  contains_dependency: 2
+  fraction_of_issues_contain_bug: 0.06153846153846154
+  fraction_of_bug_issues_contain_dependency: 0.25
+roscpp_core:
+  name: roscpp_core
+  issues: 130
+  contains_bug: 11
+  contains_dependency: 3
+  fraction_of_issues_contain_bug: 0.08461538461538462
+  fraction_of_bug_issues_contain_dependency: 0.2727272727272727
+rospack:
+  name: rospack
+  issues: 130
+  contains_bug: 3
+  contains_dependency: 12
+  fraction_of_issues_contain_bug: 0.023076923076923078
+  fraction_of_bug_issues_contain_dependency: 4
+rosserial:
+  name: rosserial
+  issues: 130
+  contains_bug: 4
+  contains_dependency: 0
+  fraction_of_issues_contain_bug: 0.03076923076923077
+  fraction_of_bug_issues_contain_dependency: 0
+rotors_simulator:
+  name: rotors_simulator
+  issues: 130
+  contains_bug: 5
+  contains_dependency: 4
+  fraction_of_issues_contain_bug: 0.038461538461538464
+  fraction_of_bug_issues_contain_dependency: 0.8
+rqt:
+  name: rqt
+  issues: 130
+  contains_bug: 17
+  contains_dependency: 5
+  fraction_of_issues_contain_bug: 0.13076923076923078
+  fraction_of_bug_issues_contain_dependency: 0.29411764705882354
+rqt_common_plugins:
+  name: rqt_common_plugins
+  issues: 130
+  contains_bug: 10
+  contains_dependency: 16
+  fraction_of_issues_contain_bug: 0.07692307692307693
+  fraction_of_bug_issues_contain_dependency: 1.6
+rqt_robot_plugins:
+  name: rqt_robot_plugins
+  issues: 130
+  contains_bug: 12
+  contains_dependency: 10
+  fraction_of_issues_contain_bug: 0.09230769230769231
+  fraction_of_bug_issues_contain_dependency: 0.8333333333333334
+rtabmap:
+  name: rtabmap
+  issues: 130
+  contains_bug: 10
+  contains_dependency: 1
+  fraction_of_issues_contain_bug: 0.07692307692307693
+  fraction_of_bug_issues_contain_dependency: 0.1
+rtabmap_ros:
+  name: rtabmap_ros
+  issues: 130
+  contains_bug: 10
+  contains_dependency: 2
+  fraction_of_issues_contain_bug: 0.07692307692307693
+  fraction_of_bug_issues_contain_dependency: 0.2
+rviz:
+  name: rviz
+  issues: 130
+  contains_bug: 10
+  contains_dependency: 1
+  fraction_of_issues_contain_bug: 0.07692307692307693
+  fraction_of_bug_issues_contain_dependency: 0.1
+rviz_visual_tools:
+  name: rviz_visual_tools
+  issues: 130
+  contains_bug: 2
+  contains_dependency: 6
+  fraction_of_issues_contain_bug: 0.015384615384615385
+  fraction_of_bug_issues_contain_dependency: 3
+schunk_modular_robotics:
+  name: schunk_modular_robotics
+  issues: 130
+  contains_bug: 4
+  contains_dependency: 6
+  fraction_of_issues_contain_bug: 0.03076923076923077
+  fraction_of_bug_issues_contain_dependency: 1.5
+serial:
+  name: serial
+  issues: 130
+  contains_bug: 5
+  contains_dependency: 6
+  fraction_of_issues_contain_bug: 0.038461538461538464
+  fraction_of_bug_issues_contain_dependency: 1.2
+spatio_temporal_voxel_layer:
+  name: spatio_temporal_voxel_layer
+  issues: 130
+  contains_bug: 5
+  contains_dependency: 4
+  fraction_of_issues_contain_bug: 0.038461538461538464
+  fraction_of_bug_issues_contain_dependency: 0.8
+teb_local_planner:
+  name: teb_local_planner
+  issues: 130
+  contains_bug: 1
+  contains_dependency: 6
+  fraction_of_issues_contain_bug: 0.007692307692307693
+  fraction_of_bug_issues_contain_dependency: 6
+turtlebot3:
+  name: turtlebot3
+  issues: 130
+  contains_bug: 10
+  contains_dependency: 7
+  fraction_of_issues_contain_bug: 0.07692307692307693
+  fraction_of_bug_issues_contain_dependency: 0.7
+usb_cam:
+  name: usb_cam
+  issues: 130
+  contains_bug: 4
+  contains_dependency: 2
+  fraction_of_issues_contain_bug: 0.03076923076923077
+  fraction_of_bug_issues_contain_dependency: 0.5
+uuv_simulator:
+  name: uuv_simulator
+  issues: 130
+  contains_bug: 4
+  contains_dependency: 8
+  fraction_of_issues_contain_bug: 0.03076923076923077
+  fraction_of_bug_issues_contain_dependency: 2
+velodyne:
+  name: velodyne
+  issues: 130
+  contains_bug: 7
+  contains_dependency: 1
+  fraction_of_issues_contain_bug: 0.05384615384615385
+  fraction_of_bug_issues_contain_dependency: 0.14285714285714285
+vision_opencv:
+  name: vision_opencv
+  issues: 130
+  contains_bug: 6
+  contains_dependency: 11
+  fraction_of_issues_contain_bug: 0.046153846153846156
+  fraction_of_bug_issues_contain_dependency: 1.8333333333333333
+vrpn:
+  name: vrpn
+  issues: 130
+  contains_bug: 17
+  contains_dependency: 1
+  fraction_of_issues_contain_bug: 0.13076923076923078
+  fraction_of_bug_issues_contain_dependency: 0.058823529411764705
+xacro:
+  name: xacro
+  issues: 130
+  contains_bug: 2
+  contains_dependency: 3
+  fraction_of_issues_contain_bug: 0.015384615384615385
+  fraction_of_bug_issues_contain_dependency: 1.5
+ethzasl_xsens_driver:
+  name: ethzasl_xsens_driver
+  issues: 130
+  contains_bug: 4
+  contains_dependency: 2
+  fraction_of_issues_contain_bug: 0.03076923076923077
+  fraction_of_bug_issues_contain_dependency: 0.5
+yp-spur:
+  name: yp-spur
+  issues: 130
+  contains_bug: 1
+  contains_dependency: 0
+  fraction_of_issues_contain_bug: 0.007692307692307693
+  fraction_of_bug_issues_contain_dependency: 0
+yujin_ocs:
+  name: yujin_ocs
+  issues: 130
+  contains_bug: 4
+  contains_dependency: 6
+  fraction_of_issues_contain_bug: 0.03076923076923077
+  fraction_of_bug_issues_contain_dependency: 1.5
