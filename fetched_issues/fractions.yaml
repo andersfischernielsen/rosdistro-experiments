@@ -53,7 +53,7 @@ utils-ros1:
   contains_bug: 0
   contains_dependency: 14
   fraction_of_issues_contain_bug: 0
-  fraction_of_bug_issues_contain_dependency: .inf
+  fraction_of_bug_issues_contain_dependency: 0
 bond_core:
   name: bond_core
   issues: 108
@@ -116,14 +116,14 @@ cob_common:
   contains_bug: 0
   contains_dependency: 2
   fraction_of_issues_contain_bug: 0
-  fraction_of_bug_issues_contain_dependency: .inf
+  fraction_of_bug_issues_contain_dependency: 0
 cob_environments:
   name: cob_environments
   issues: 130
   contains_bug: 0
   contains_dependency: 4
   fraction_of_issues_contain_bug: 0
-  fraction_of_bug_issues_contain_dependency: .inf
+  fraction_of_bug_issues_contain_dependency: 0
 common_msgs:
   name: common_msgs
   issues: 130
@@ -319,7 +319,7 @@ kinesisvideo-common:
   contains_bug: 0
   contains_dependency: 11
   fraction_of_issues_contain_bug: 0
-  fraction_of_bug_issues_contain_dependency: .inf
+  fraction_of_bug_issues_contain_dependency: 0
 kinesisvideo-ros1:
   name: kinesisvideo-ros1
   issues: 429
@@ -578,7 +578,7 @@ rocon_msgs:
   contains_bug: 0
   contains_dependency: 3
   fraction_of_issues_contain_bug: 0
-  fraction_of_bug_issues_contain_dependency: .inf
+  fraction_of_bug_issues_contain_dependency: 0
 rocon_tools:
   name: rocon_tools
   issues: 130
