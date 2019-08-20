@@ -256,21 +256,21 @@ kinesisvideo-encoder-common:
   contains_bug: 0
   contains_dependency: 0
   fraction_of_issues_contain_bug: 0
-  fraction_of_bug_issues_contain_dependency: .nan
+  fraction_of_bug_issues_contain_dependency: 0
 kinesisvideo-encoder-ros1:
   name: kinesisvideo-encoder-ros1
   issues: 352
   contains_bug: 0
   contains_dependency: 0
   fraction_of_issues_contain_bug: 0
-  fraction_of_bug_issues_contain_dependency: .nan
+  fraction_of_bug_issues_contain_dependency: 0
 health-metrics-collector-ros1:
   name: health-metrics-collector-ros1
   issues: 242
   contains_bug: 0
   contains_dependency: 0
   fraction_of_issues_contain_bug: 0
-  fraction_of_bug_issues_contain_dependency: .nan
+  fraction_of_bug_issues_contain_dependency: 0
 hls_lfcd_lds_driver:
   name: hls_lfcd_lds_driver
   issues: 473
@@ -340,7 +340,7 @@ lex-ros1:
   contains_bug: 0
   contains_dependency: 0
   fraction_of_issues_contain_bug: 0
-  fraction_of_bug_issues_contain_dependency: .nan
+  fraction_of_bug_issues_contain_dependency: 0
 libuvc:
   name: libuvc
   issues: 130
@@ -431,7 +431,7 @@ multiple-object-tracking-lidar:
   contains_bug: 0
   contains_dependency: 0
   fraction_of_issues_contain_bug: 0
-  fraction_of_bug_issues_contain_dependency: .nan
+  fraction_of_bug_issues_contain_dependency: 0
 multimaster_fkie:
   name: multimaster_fkie
   issues: 130
